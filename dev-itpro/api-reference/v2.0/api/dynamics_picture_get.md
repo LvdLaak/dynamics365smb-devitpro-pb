@@ -69,7 +69,7 @@ Here is an example of the response.
 **GET Content**
 
 ```json
-GET https://{businesscentralPrefix}/api/v2.0/companies(companyId)/items(itemId)/picture(itemId)/content
+GET https://{businesscentralPrefix}/api/v2.0/companies(companyId)/items(itemId)/picture(itemId)/pictureContent
 ```
 
 **Response**
